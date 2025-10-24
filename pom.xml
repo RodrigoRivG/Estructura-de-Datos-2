@@ -10,6 +10,7 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <exec.mainClass>com.mycompany.arbolobinariobusqueda.ArboloBinarioBusqueda</exec.mainClass>
+        <sonar.organization>rodrigorivg</sonar.organization>
     </properties>
     <name>ArbolesDeBusqueda</name>
 </project>
